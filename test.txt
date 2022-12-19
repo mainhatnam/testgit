@@ -7,4 +7,5 @@ taks2:mai
  task3 //fix
  task5
  task5 add abc
+ task6
  
