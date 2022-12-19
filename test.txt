@@ -6,6 +6,7 @@ taks2:mai
 
 task6 //fix
 add task6
-task7
+task7//fix
+add task7
 
  
